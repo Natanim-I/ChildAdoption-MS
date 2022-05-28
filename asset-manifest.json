@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChildAdoption-MS/static/css/main.9f088a99.css",
+    "main.js": "/ChildAdoption-MS/static/js/main.b56bc528.js",
+    "static/media/bg.jpg": "/ChildAdoption-MS/static/media/bg.af37ad97108c9b498f65.jpg",
+    "static/media/logo.jpg": "/ChildAdoption-MS/static/media/logo.81b6104c8330f40e6992.jpg",
+    "index.html": "/ChildAdoption-MS/index.html",
+    "main.9f088a99.css.map": "/ChildAdoption-MS/static/css/main.9f088a99.css.map",
+    "main.b56bc528.js.map": "/ChildAdoption-MS/static/js/main.b56bc528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.b56bc528.js"
+  ]
+}
